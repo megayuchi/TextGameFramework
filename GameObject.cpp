@@ -10,7 +10,7 @@
 FLIGHT_OBJECT* CreatePlayer()
 {
 	FLIGHT_OBJECT*	pNewObject = new FLIGHT_OBJECT;
-	pNewObject->pBits = g_pFitherType0;
+	pNewObject->pBits = g_FighterType0;
 	pNewObject->x = (g_iScreenWidth / 2) - IMG_WIDTH_FIGHTER_TYPE0 / 2;
 	pNewObject->y = (g_iScreenHeight / 2) - IMG_HEIGHT_FIGHTER_TYPE0 / 2;
 	pNewObject->Width = IMG_WIDTH_FIGHTER_TYPE0;

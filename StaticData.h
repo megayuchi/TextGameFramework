@@ -1,7 +1,7 @@
 #pragma once
 
-// FITER_TYPE_00
-extern WCHAR g_pFitherType0[25];
+// FIGHTER_TYPE_00
+extern WCHAR g_FighterType0[25];
 const DWORD IMG_WIDTH_FIGHTER_TYPE0 = 5;
 const DWORD IMG_HEIGHT_FIGHTER_TYPE0 = 5;
 

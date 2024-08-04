@@ -3,7 +3,7 @@
 
 
 
-WCHAR g_pFitherType0[25] =
+WCHAR g_FighterType0[25] =
 {
 	' ', ' ', '|', ' ', ' ',
 	' ', '[', '|', ']', ' ',
